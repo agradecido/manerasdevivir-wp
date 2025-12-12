@@ -23,7 +23,7 @@
         "cross-env": "^7.0.3",
         "cssnano": "^5.1.15",
         "esbuild": "^0.19.12",
-        "glob": "^10.3.10",
+        "glob": "^10.5.0",
         "imagemin": "^8.0.1",
         "imagemin-mozjpeg": "^10.0.0",
         "imagemin-pngquant": "^9.0.2",
